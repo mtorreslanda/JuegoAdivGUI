@@ -1,8 +1,7 @@
 # Juego Adivinador — a number-guessing game with a Tkinter GUI
 
 A small desktop game written in Python with **Tkinter**: guess a number between 1 and 1000 before your
-lives run out. My first GUI project, built for the Python course of the MSc in Data Science at
-Universidad Complutense de Madrid. The interface is in Spanish.
+lives run out. My first GUI project. The interface is in Spanish.
 
 | Menu | Difficulty | Playing | Statistics |
 |---|---|---|---|
